@@ -1,12 +1,12 @@
 .myDiv {
     margin-bottom: 10px;
     font-size:20px;
-    font-family: 'San Francisco';
+    font-family : Arial,Arial,Arial,Arial ;
 }
 
 .myDiv2 {
     margin:auto;
-    max-width: 25rem;
+    max-width: 35rem;
 }
 
 body {
@@ -14,22 +14,23 @@ body {
 }
 
 input[type=text] {
-    padding: 4px 8px;
+    padding: 8px 8px;
     margin: 4px 0;
     font-size:18px;
+    width: 580px;
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #6ba56c;
     color: white;
     padding: 10px 10px;
     margin-top: 4px;
     font-size:18px;
-    width: 335px;
+    width: 600px;
     border: none;
 }
 
 h1 {
-    font-size:17px;
-    color:dimgray;
+    font-size:18px;
+    color:rgb(0, 0, 0);
 }
